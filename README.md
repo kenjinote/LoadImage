@@ -1,0 +1,4 @@
+# LoadImage
+Win32APIのLoadImage関数を使ってリソースのビットマップを読み込んで描画するサンプル
+
+備考：試したところLoadImage関数は32ビットBitmapには対応していないらしい。NULLが返却される。
