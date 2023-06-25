@@ -33,8 +33,5 @@
     <Image Include="bitmap1.bmp">
       <Filter>リソース ファイル</Filter>
     </Image>
-    <Image Include="bitmap1.png">
-      <Filter>リソース ファイル</Filter>
-    </Image>
   </ItemGroup>
 </Project>
